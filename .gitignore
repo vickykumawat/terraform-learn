@@ -5,6 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+*.tfvars
+
 terraform.exe
 
 # tf vaiable files, may include sensitive data
